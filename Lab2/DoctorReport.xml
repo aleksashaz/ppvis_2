@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<base>
+<note>
+<patientName>Ересеня Л.А.</patientName>
+<placeOfResidence>Минск</placeOfResidence>
+<dateOfBirth>19:07:1999</dateOfBirth>
+<dateOfReceipt>13:09:2020</dateOfReceipt>
+<doctorName>Скорая Е.В.</doctorName>
+<conclusion>Перелом ноги</conclusion>
+</note>
+
+<note>
+<patientName>Сидоров Д.А.</patientName>
+<placeOfResidence>Минск</placeOfResidence>
+<dateOfBirth>12:12:2000</dateOfBirth>
+<dateOfReceipt>11:05:2020</dateOfReceipt>
+<doctorName>Иванов Р.И.</doctorName>
+<conclusion>Здоров</conclusion>
+</note>
+<note>
+<patientName>Иванов И.И.</patientName>
+<placeOfResidence>Минск</placeOfResidence>
+<dateOfBirth>13:12:2001</dateOfBirth>
+<dateOfReceipt>11:05:2020</dateOfReceipt>
+<doctorName>Иванов Р.И.</doctorName>
+<conclusion>ОРВИ</conclusion>
+</note>
+<note>
+<patientName>Пилимонов М.С.</patientName>
+<placeOfResidence>Барановичи</placeOfResidence>
+<dateOfBirth>27:08:2002</dateOfBirth>
+<dateOfReceipt>17:05:2020</dateOfReceipt>
+<doctorName>Уха О.Р.</doctorName>
+<conclusion>Шизофрения</conclusion>
+</note>
+<note>
+<patientName>Волк Е.А.</patientName>
+<placeOfResidence>Минск</placeOfResidence>
+<dateOfBirth>01:10:2007</dateOfBirth>
+<dateOfReceipt>19:10:2020</dateOfReceipt>
+<doctorName>Спикол П.ф.</doctorName>
+<conclusion>Ветрянка</conclusion>
+</note>
+<note>
+<patientName>Емеля О.И.</patientName>
+<placeOfResidence>Борисов</placeOfResidence>
+<dateOfBirth>12:12:2000</dateOfBirth>
+<dateOfReceipt>12:12:2020</dateOfReceipt>
+<doctorName>Абрикосик В.Ю.</doctorName>
+<conclusion>Вывих</conclusion>
+</note>
+<note>
+<patientName>Бродск И.С.</patientName>
+<placeOfResidence>Питер</placeOfResidence>
+<dateOfBirth>12:12:1961</dateOfBirth>
+<dateOfReceipt>03:02:2011</dateOfReceipt>
+<doctorName>Илларион Р.Д.</doctorName>
+<conclusion>Смерть</conclusion>
+</note>
+<note>
+<patientName>Конвор В.С.</patientName>
+<placeOfResidence>Москва</placeOfResidence>
+<dateOfBirth>17:02:1989</dateOfBirth>
+<dateOfReceipt>16:09:2017</dateOfReceipt>
+<doctorName>Мрезя Р.И.</doctorName>
+<conclusion>Коклюш</conclusion>
+</note>
+<note>
+<patientName>Волич Д.А.</patientName>
+<placeOfResidence>Новогрудок</placeOfResidence>
+<dateOfBirth>27:09:2000</dateOfBirth>
+<dateOfReceipt>15:09:2020</dateOfReceipt>
+<doctorName>Зайчиков П.И.</doctorName>
+<conclusion>Здоров</conclusion>
+</note>
+<note>
+<patientName>Дикий У.Р.</patientName>
+<placeOfResidence>Бобруйск</placeOfResidence>
+<dateOfBirth>29:11:1998</dateOfBirth>
+<dateOfReceipt>16:09:2020</dateOfReceipt>
+<doctorName>Зайчиков П.И.</doctorName>
+<conclusion>Здоров</conclusion>
+</note>
+<note>
+<patientName>Смирнов А.А.</patientName>
+<placeOfResidence>Минск</placeOfResidence>
+<dateOfBirth>15:04:1998</dateOfBirth>
+<dateOfReceipt>12:05:2020</dateOfReceipt>
+<doctorName>Петров А.О.</doctorName>
+<conclusion>Здоров</conclusion>
+</note>
+<note>
+<patientName>Смирнов А.А.</patientName>
+<placeOfResidence>Минск</placeOfResidence>
+<dateOfBirth>15:04:1998</dateOfBirth>
+<dateOfReceipt>19:05:2020</dateOfReceipt>
+<doctorName>Петров А.О.</doctorName>
+<conclusion>Коронавирус</conclusion>
+</note>
+<note>
+<patientName>Новиков А.С.</patientName>
+<placeOfResidence>Барановичи</placeOfResidence>
+<dateOfBirth>02:10:2000</dateOfBirth>
+<dateOfReceipt>02:05:2020</dateOfReceipt>
+<doctorName>Морозов А.Н.</doctorName>
+<conclusion>Воспаление легких</conclusion>
+</note>
+<note>
+<patientName>Алекссев Н.А.</patientName>
+<placeOfResidence>Солигорск</placeOfResidence>
+<dateOfBirth>09:10:2000</dateOfBirth>
+<dateOfReceipt>12:07:2019</dateOfReceipt>
+<doctorName>Лебедев А.К.</doctorName>
+<conclusion>Здоров</conclusion>
+</note>
+<note>
+<patientName>Соколов П.В.</patientName>
+<placeOfResidence>Минск</placeOfResidence>
+<dateOfBirth>12:09:1991</dateOfBirth>
+<dateOfReceipt>23:09:2018</dateOfReceipt>
+<doctorName>Лебедев А.К.</doctorName>
+<conclusion>Необходима госпитализация</conclusion>
+</note>
+<note>
+<patientName>Новиков А.С.</patientName>
+<placeOfResidence>Барановичи</placeOfResidence>
+<dateOfBirth>02:10:2000</dateOfBirth>
+<dateOfReceipt>11:06:2020</dateOfReceipt>
+<doctorName>Морозов А.Н.</doctorName>
+<conclusion>Здоров</conclusion>
+</note>
+<note>
+<patientName>Павлов Е.В</patientName>
+<placeOfResidence>Орша</placeOfResidence>
+<dateOfBirth>12:12:1954</dateOfBirth>
+<dateOfReceipt>12:12:2020</dateOfReceipt>
+<doctorName>Илларион Р.Д.</doctorName>
+<conclusion>Смерть</conclusion>
+</note>
+<note>
+<patientName>Орлова А.С.</patientName>
+<placeOfResidence>Минск</placeOfResidence>
+<dateOfBirth>08:08:1998</dateOfBirth>
+<dateOfReceipt>12:05:2020</dateOfReceipt>
+<doctorName>Абрикосик В.Ю.</doctorName>
+<conclusion>Вывих правой ноги</conclusion>
+</note>
+<note>
+<patientName>Зайцев П.И.</patientName>
+<placeOfResidence>Витебск</placeOfResidence>
+<dateOfBirth>12:03:2000</dateOfBirth>
+<dateOfReceipt>12:15:2020</dateOfReceipt>
+<doctorName>Борисов А.К.</doctorName>
+<conclusion>Расстройство личности</conclusion>
+</note>
+<note>
+<patientName>Белов А.И.</patientName>
+<placeOfResidence>Гомель</placeOfResidence>
+<dateOfBirth>17:04:2000</dateOfBirth>
+<dateOfReceipt>12:05:2020</dateOfReceipt>
+<doctorName>Гусева К.О.</doctorName>
+<conclusion>Необходим снимок легких</conclusion>
+</note>
+<note>
+<patientName>Белов А.И.</patientName>
+<placeOfResidence>Гомель</placeOfResidence>
+<dateOfBirth>17:04:2000</dateOfBirth>
+<dateOfReceipt>13:05:2020</dateOfReceipt>
+<doctorName>Гусева К.О.</doctorName>
+<conclusion>Здоров</conclusion>
+</note>
+<note>
+<patientName>Фролова И.К.</patientName>
+<placeOfResidence>Минск</placeOfResidence>
+<dateOfBirth>29:02:1989</dateOfBirth>
+<dateOfReceipt>31:12:2020</dateOfReceipt>
+<doctorName>Борисов А.К.</doctorName>
+<conclusion>Шизофрения</conclusion>
+</note>
+<note>
+<patientName>Королев В.И.</patientName>
+<placeOfResidence>Пинск</placeOfResidence>
+<dateOfBirth>19:12:2000</dateOfBirth>
+<dateOfReceipt>31:12:2020</dateOfReceipt>
+<doctorName>Борисов А.К.</doctorName>
+<conclusion>Здоров</conclusion>
+</note>
+</base>

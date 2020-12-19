@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<base>
+    <note>
+        <studentName>Волчёк Д.А.</studentName>
+        <groupNumber>821704</groupNumber>
+        <firstExam>Экономика</firstExam>
+        <firstMark>10</firstMark>
+        <secondExam>ППвИС</secondExam>
+        <secondMark>10</secondMark>
+        <thirdExam>АОИС</thirdExam>
+        <thirdMark>9</thirdMark>
+        <forthExam>Математика</forthExam>
+        <forthMark>7</forthMark>
+        <fifthExam>БЖЧ</fifthExam>
+        <fifthMark>8</fifthMark>
+    </note>
+</base>
